@@ -1,2 +1,2 @@
-# CSGO-OFFSETS---C-
+# CSGO-OFFSETS---C++
 C++ CSGO OFFSETS!!!
